@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '41284'
     url: http://www.gutenberg.org/2009/agents/41284
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41657#To-GeyserlandNational-Park
 gutenberg_issued: '2012-12-19'
 gutenberg_type: Text
 identifiers:
