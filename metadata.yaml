@@ -1,0 +1,31 @@
+_repo: To-GeyserlandNational-Park_41657
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41657-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Colborn, Edward F.
+    aliases:
+    - Colborn, E. F. (Edward F.)
+    - Colborn, Edward Fenton
+    birthdate: 1854
+    deathdate: 1926
+    gutenberg_agent_id: '41284'
+    url: http://www.gutenberg.org/2009/agents/41284
+description: ''
+gutenberg_issued: '2012-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41657'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Geysers'
+- !lcsh 'Yellowstone National Park'
+- !lcc 'F721'
+title: "To Geyserland\r\nUnion Pacific-Oregon Short Line Railroads to the Yellowstone\
+  \ National Park"
+url: http://www.gutenberg.org/ebooks/41657
